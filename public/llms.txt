@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+בנו את ארון ההזזה המושלם שלכם עם קונפיגורטור חכם: בחרו צבעים, תוספות פרמיום ומחירים בזמן אמת. משלוח והרכבה כלולים!
+
+### ארונות
+https://example.com/wardrobes
+גלו מגוון ארונות הזזה מעוצבים עם מגירות סגירה שקטה, מתלים נשלפים ומדפים נגללים. בחרו את הפנים המושלם לביתכם עכשיו!
+
+### משלוח והרכבה
+https://example.com/delivery-assembly
+שירות משלוח והרכבה מלא לארון ההזזה שלכם! צוות מקצועי מגיע עד הבית, מרכיב ומותיר אתכם עם ארון מושלם ומוכן לשימוש.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם צוות המומחים שלנו לייעוץ אישי בתכנון ארון ההזזה המותאם לכם. זמינים לכל שאלה ובקשה מיוחדת!
+
+### Products
+https://example.com/products
+המוצרים שלנו - PapaDoor
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - PapaDoor
+
+### Category
+https://example.com/category/:slug
+מוצרים - PapaDoor
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
